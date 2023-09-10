@@ -1,0 +1,43 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: rgba(238, 238, 238, 0.925);
+  justify-content: center;
+  display: flex;
+}
+
+.post_List {
+  margin-top: 70px;
+  padding: 5px;
+}
+
+.FeedPost {
+  background-color: white;
+  /* width: 400px;
+  height: 200px; */
+}
+
+.post_count {
+  margin-bottom: 35px;
+  padding: 5px;
+  float: left;
+  text-align: left;
+  position: relative;
+}
+.post_fonts {
+  text-align: justify;
+}
+
+.comments_dialog {
+  width: 400px;
+  height: 400px;
+}
+.refresh_page {
+  float: right;
+  margin-bottom: 35px;
+  padding: 5px;
+  position: relative;
+}
